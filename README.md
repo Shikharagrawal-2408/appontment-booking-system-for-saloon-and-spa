@@ -1,32 +1,37 @@
-Salon & Spa Appointment Booking Website
-Overview
+# Salon & Spa Appointment Booking Website
 
-This project is a static appointment booking website designed for a salon and spa. It focuses on clean layout, user-friendly design, and responsive structure using only HTML and CSS.
+This project is a **static appointment booking website** designed for a salon and spa. It focuses on clean layout, user-friendly design, and responsive structure using only HTML and CSS.
 There is no backend, no JavaScript, and no real booking logic — this is purely a front-end project.
 
 If you’re expecting dynamic slots, database integration, or form handling, this project does not do that.
 
-Features
+---
 
-Home page with salon & spa introduction
+## Features
 
-Services section (hair, spa, beauty, etc.)
+- Home page with salon & spa introduction
 
-Appointment booking form (UI only)
+- Services section (hair, spa, beauty, etc.)
 
-Clean and minimal design
+- Appointment booking form (UI only)
 
-Responsive layout using CSS
+- Clean and minimal design
 
-Simple navigation structure
+- Responsive layout using CSS
 
-Tech Stack
+- Simple navigation structure
 
-HTML5 – page structure
+---
 
-CSS3 – styling and layout
+## Tech Stack
 
-Nothing else. No frameworks. No libraries.
+- HTML5 – page structure
+
+- CSS3 – styling and layout
+
+## Nothing else. No frameworks. No libraries.
+
+--- 
 
 Project Structure
 ├── index.html
@@ -35,15 +40,19 @@ Project Structure
 └── assets/
     └── images/
 
-How It Works
+---
 
-Users can view services and fill an appointment form
+### How It Works
 
-The form is not functional — it does not store or submit data
+- Users can view services and fill an appointment form
 
-This project demonstrates UI design and layout skills, not full-stack development
+- The form is not functional — it does not store or submit data
 
-Purpose of This Project
+- This project demonstrates UI design and layout skills, not full-stack development
+
+--- 
+
+### Purpose of This Project
 
 Practice HTML & CSS
 
@@ -79,14 +88,22 @@ Add admin panel
 
 Enable real-time slot availability
 
-Screenshots
+---
 
-(Add screenshots here if you have them)
+## 👨‍💻 About Me
 
-Author
+Hi, I'm **Shikhar Agrawal**, a passionate learner exploring development, Git, and clean coding practices. This repo reflects the tools I use and the journey I'm on.
 
-Shikhar Agrawal
+Connect with me:
+- 🌐 [GitHub Profile](https://github.com/Shikharagrawal-2408)
+- 📫 Coming soon: blog, portfolio, or more!
 
-License
+---
 
-This project is open for learning and personal use.
+## 📌 Contribute (Optional)
+
+This is mainly for personal use, but feel free to fork or star if you find it helpful. Suggestions, PRs, or issues are welcome if you want to improve anything.
+
+---
+
+Thanks for visiting, and happy coding! 🚀
